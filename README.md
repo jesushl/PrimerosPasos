@@ -27,9 +27,9 @@ Para este ejercicio se necesita una cuenta en github para lo ejercicios en la nu
 ## Iniciar con repositorios
 
                                                                                 
-`git init`                                                      README.md, .git *
-`git clone <URLRepositorio>`
-Archivo ZIP
+`git init`                                                      README.md, *.git <br>
+`git clone <URLRepositorio>` <br>
+Archivo ZIP <br>
 
 
 
