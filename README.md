@@ -21,9 +21,11 @@ Para este ejercicio se necesita una cuenta en github para lo ejercicios en la nu
 * git log
 * git fetch 
 * git push
+* git pull 
 * git checkout
 * git branch 
 * git reset 
+
 
 ## Iniciar con repositorios
 
