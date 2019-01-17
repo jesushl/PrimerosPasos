@@ -23,6 +23,7 @@ Para este ejercicio se necesita una cuenta en github para lo ejercicios en la nu
 * git push
 * git checkout
 * git branch 
+* git reset 
 
 ## Iniciar con repositorios
 
