@@ -35,7 +35,9 @@ Para este ejercicio se necesita una cuenta en github para lo ejercicios en la nu
 Archivo ZIP <br>
 
 
+###  Como crear un nuevo Branch
 
+`git checkout -b <nombre_del_branch>`
 
 
 
